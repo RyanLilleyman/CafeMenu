@@ -3,6 +3,8 @@
 ## Overview
 An elegant, user-friendly Cafe Menu created as part of FreeCodeCamp's curriculum. Built with HTML, CSS, and JavaScript, the project showcases an interactive menu of a virtual café.
 
+![Project Banner](https://github.com/RyanLilleyman/CafeMenu/blob/main/beans.png)
+
 ## Features
 - Interactive menu with categories
 - Responsive design for all device sizes
