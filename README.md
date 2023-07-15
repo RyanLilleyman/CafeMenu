@@ -11,7 +11,7 @@ An elegant, user-friendly Cafe Menu created as part of FreeCodeCamp's curriculum
 ## Technologies Used
 - HTML5
 - CSS3
-- JavaScript
+
 
 ## How to Use
 To view the CafeMenu, clone this repository and open `index.html` in your browser.
